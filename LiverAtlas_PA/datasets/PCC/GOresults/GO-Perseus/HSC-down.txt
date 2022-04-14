@@ -1,0 +1,152 @@
+Cluster ID	Type	Name	P value	Enrichment	Total	In cluster	Cluster size	Ben. Ho. FDR
+-853	GOCC name	nuclear part	6.9159E-24	1.6745	243	162	342	4.6613E-21
+-853	GOBP name	nucleobase-containing compound metabolic process	5.7046E-24	1.7922	192	137	342	2.931E-20
+-853	GOBP name	cellular nitrogen compound metabolic process	5.1727E-22	1.6708	230	153	342	1.3289E-18
+-853	GOBP name	nucleic acid metabolic process	3.0941E-20	1.7962	165	118	342	5.2991E-17
+-853	GOBP name	nitrogen compound metabolic process	4.5305E-20	1.6067	247	158	342	5.8195E-17
+-853	GOCC name	nucleus	4.4918E-18	1.5897	237	150	342	6.0549E-16
+-853	GOCC name	nucleoplasm	3.8784E-17	1.7085	172	117	342	4.3567E-15
+-853	GOBP name	cellular metabolic process	6.3563E-18	1.3547	432	233	342	6.5317E-15
+-853	GOMF name	nucleic acid binding	1.8467E-17	1.812	140	101	342	2.1459E-14
+-853	GOBP name	cellular macromolecule metabolic process	2.8023E-17	1.4713	309	181	342	2.3997E-14
+-853	GOBP name	primary metabolic process	3.7205E-17	1.3538	423	228	342	2.7309E-14
+-853	GOBP name	RNA metabolic process	4.1713E-15	1.7528	139	97	342	2.679E-12
+-853	GOBP name	cellular biosynthetic process	8.8999E-14	1.5795	194	122	342	5.0808E-11
+-853	GOBP name	macromolecule metabolic process	7.1271E-13	1.366	342	186	342	3.6619E-10
+-853	GOBP name	metabolic process	3.3614E-12	1.2481	489	243	342	1.5701E-09
+-853	GOBP name	RNA processing	8.2947E-12	2.1253	52	44	342	3.5515E-09
+-853	GOBP name	biosynthetic process	9.5051E-12	1.5022	209	125	342	3.7567E-09
+-853	KEGG name	RNA transport	2.2052E-11	2.5117	26	26	342	4.8295E-09
+-853	GOCC name	nucleolus	1.0376E-10	1.8924	73	55	342	6.3575E-09
+-853	GOCC name	ribonucleoprotein complex	1.2807E-09	1.9487	58	45	342	6.1657E-08
+-853	GOCC name	intracellular part	1.5673E-09	1.1021	727	319	342	7.0425E-08
+-853	GOMF name	RNA binding	2.1362E-10	1.8838	72	54	342	1.2411E-07
+-853	GOBP name	gene expression	1.2199E-09	1.8329	74	54	342	4.4772E-07
+-853	GOCC name	nucleoplasm part	1.6366E-08	2.0094	45	36	342	5.2527E-07
+-853	GOCC name	cytoplasm	1.918E-08	1.3201	293	154	342	5.3865E-07
+-853	GOBP name	DNA metabolic process	1.6353E-09	2.0408	48	39	342	5.6016E-07
+-853	GOCC name	intracellular non-membrane-bounded organelle	1.8045E-07	1.4154	181	102	342	3.6856E-06
+-853	GOCC name	non-membrane-bounded organelle	1.8045E-07	1.4154	181	102	342	3.8008E-06
+-853	GOBP name	chromosome organization	1.6366E-08	2.0094	45	36	342	4.4257E-06
+-853	GOBP name	RNA splicing	3.9073E-08	2.1876	31	27	342	8.7286E-06
+-853	GOMF name	nucleotide binding	4.4864E-08	1.4813	156	92	342	1.3033E-05
+-853	GOBP name	cellular macromolecule biosynthetic process	6.9392E-08	1.6027	105	67	342	1.4856E-05
+-853	GOMF name	DNA binding	9.12E-08	1.7185	76	52	342	2.1195E-05
+-853	GOBP name	ncRNA metabolic process	4.5639E-07	2.1529	28	24	342	7.3279E-05
+-853	GOCC name	nuclear pore	5.4926E-06	2.5117	13	13	342	9.0293E-05
+-853	GOBP name	nucleobase-containing compound transport	6.2259E-07	2.2834	22	20	342	9.6936E-05
+-853	GOBP name	mRNA processing	7.5659E-07	2.0094	35	28	342	0.00011107
+-853	GOBP name	nuclear transport	1.0203E-06	2.1396	27	23	342	0.00014562
+-853	GOBP name	establishment of RNA localization	1.4684E-06	2.2725	21	19	342	0.00016766
+-853	GOBP name	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	1.2928E-06	2.1977	24	21	342	0.00017032
+-853	GOBP name	RNA transport	1.4684E-06	2.2725	21	19	342	0.00017147
+-853	GOBP name	mRNA transport	1.373E-06	2.3722	18	17	342	0.00017206
+-853	GOBP name	mRNA metabolic process	1.4214E-06	1.8314	48	35	342	0.00017389
+-853	GOBP name	nuclear mRNA splicing, via spliceosome	1.2928E-06	2.1977	24	21	342	0.0001748
+-853	GOBP name	nucleic acid transport	1.4684E-06	2.2725	21	19	342	0.00017546
+-853	GOBP name	nucleocytoplasmic transport	2.2625E-06	2.1253	26	22	342	0.00024733
+-853	GOCC name	spliceosomal complex	1.9603E-05	2.3442	15	14	342	0.00028112
+-853	GOCC name	nuclear speck	1.9603E-05	2.3442	15	14	342	0.00028723
+-853	GOBP name	cellular macromolecular complex subunit organization	2.7103E-06	1.7015	62	42	342	0.00029012
+-853	GOMF name	helicase activity	2.136E-06	2.5117	14	14	342	0.00031026
+-853	GOMF name	adenyl nucleotide binding	3.1116E-06	1.5562	92	57	342	0.00032869
+-853	GOMF name	adenyl ribonucleotide binding	3.1116E-06	1.5562	92	57	342	0.00036156
+-853	GOMF name	ATP binding	3.1116E-06	1.5562	92	57	342	0.00040174
+-853	GOCC name	intracellular organelle	3.03E-05	1.132	517	233	342	0.00040844
+-853	GOBP name	chromatin organization	4.2874E-06	1.9376	35	27	342	0.00043193
+-853	GOBP name	negative regulation of nitrogen compound metabolic process	4.635E-06	1.7028	59	40	342	0.00045797
+-853	GOBP name	protein modification by small protein conjugation or removal	5.0401E-06	2.0094	30	24	342	0.00046243
+-853	GOBP name	RNA splicing, via transesterification reactions	4.9738E-06	2.1098	25	21	342	0.00046465
+-853	GOBP name	regulation of cellular macromolecule biosynthetic process	5.4198E-06	1.3936	155	86	342	0.00047198
+-853	GOBP name	macromolecule biosynthetic process	5.411E-06	1.4762	114	67	342	0.00047934
+-853	GOBP name	RNA biosynthetic process	5.3954E-06	1.559	87	54	342	0.00048634
+-853	GOBP name	regulation of macromolecule biosynthetic process	7.1573E-06	1.383	158	87	342	0.0006129
+-853	GOBP name	negative regulation of cellular macromolecule biosynthetic process	7.9046E-06	1.7044	56	38	342	0.0006658
+-853	GOCC name	cytosol	5.4433E-05	1.2613	231	116	342	0.00066705
+-853	GOBP name	regulation of RNA metabolic process	8.1533E-06	1.4051	143	80	342	0.00067567
+-853	GOBP name	negative regulation of cellular biosynthetic process	8.9504E-06	1.661	62	41	342	0.00072996
+-853	GOCC name	nuclear body	6.883E-05	1.9884	24	19	342	0.00082842
+-853	GOBP name	cellular macromolecular complex assembly	1.0824E-05	1.7635	47	33	342	0.00085558
+-853	KEGG name	Spliceosome	8.0028E-06	2.2473	19	17	342	0.00087631
+-853	GOBP name	negative regulation of nucleobase-containing compound metabolic process	1.4736E-05	1.6745	57	38	342	0.0010664
+-853	GOBP name	transcription, DNA-dependent	1.6311E-05	1.612	67	43	342	0.0011325
+-853	GOBP name	negative regulation of biosynthetic process	1.5951E-05	1.6346	63	41	342	0.0011383
+-853	GOMF name	ATP-dependent helicase activity	1.4098E-05	2.5117	12	12	342	0.0011701
+-853	GOMF name	chromatin binding	1.5909E-05	2.0287	26	21	342	0.0012324
+-853	GOMF name	purine NTP-dependent helicase activity	1.4098E-05	2.5117	12	12	342	0.0012601
+-853	GOBP name	macromolecular complex subunit organization	2.5831E-05	1.4631	103	60	342	0.0016185
+-853	GOCC name	macromolecular complex	0.00016118	1.1972	300	143	342	0.0018731
+-853	GOMF name	RNA-dependent ATPase activity	3.6117E-05	2.5117	11	11	342	0.0019985
+-853	GOBP name	response to DNA damage stimulus	3.3898E-05	1.8838	32	24	342	0.0020734
+-853	GOBP name	cell cycle	3.3641E-05	1.7523	43	30	342	0.0020825
+-853	GOMF name	RNA helicase activity	3.6117E-05	2.5117	11	11	342	0.0020984
+-853	GOMF name	ATP-dependent RNA helicase activity	3.6117E-05	2.5117	11	11	342	0.0022089
+-853	GOCC name	pore complex	0.00021522	2.1768	15	13	342	0.002378
+-853	GOBP name	ncRNA processing	4.2279E-05	2.2162	17	15	342	0.0024969
+-853	GOBP name	protein modification by small protein conjugation	4.4003E-05	1.9535	27	21	342	0.0025121
+-853	GOBP name	negative regulation of RNA metabolic process	4.3798E-05	1.6587	53	35	342	0.0025284
+-853	GOBP name	negative regulation of macromolecule biosynthetic process	4.6259E-05	1.6177	59	38	342	0.0025557
+-853	GOBP name	rRNA metabolic process	4.6992E-05	2.3323	14	13	342	0.0025686
+-853	GOBP name	regulation of cellular biosynthetic process	4.8303E-05	1.3212	173	91	342	0.0026124
+-853	GOBP name	small molecule biosynthetic process	5.1551E-05	1.7846	38	27	342	0.002759
+-853	GOCC name	nuclear envelope	0.00028338	1.9409	22	17	342	0.0029384
+-853	GOBP name	macromolecular complex assembly	5.7466E-05	1.4895	86	51	342	0.0029824
+-853	GOCC name	envelope	0.00028338	1.9409	22	17	342	0.0029843
+-853	GOCC name	organelle envelope	0.00028338	1.9409	22	17	342	0.0030317
+-853	GOBP name	ribonucleoprotein complex subunit organization	7.1641E-05	2.1151	19	16	342	0.0035393
+-853	GOBP name	ribonucleoprotein complex assembly	7.1641E-05	2.1151	19	16	342	0.0035737
+-853	GOBP name	regulation of gene expression	7.5722E-05	1.2964	186	96	342	0.0036024
+-853	GOBP name	negative regulation of cellular metabolic process	7.566E-05	1.4584	93	54	342	0.0036331
+-853	GOBP name	cellular protein metabolic process	7.5646E-05	1.3261	161	85	342	0.0036667
+-853	GOBP name	regulation of biosynthetic process	7.8547E-05	1.3055	177	92	342	0.0037025
+-853	GOMF name	purine ribonucleotide binding	0.00011884	1.3629	129	70	342	0.0043154
+-853	GOBP name	regulation of nitrogen compound metabolic process	9.8727E-05	1.2894	187	96	342	0.0044496
+-853	GOMF name	purine nucleotide binding	0.00011884	1.3629	129	70	342	0.0044546
+-853	GOCC name	chromosome	0.00045044	1.9829	19	15	342	0.0045999
+-853	GOMF name	ribonucleotide binding	0.00011884	1.3629	129	70	342	0.0046031
+-853	GOBP name	DNA repair	0.00010521	2.0333	21	17	342	0.0046599
+-853	GOBP name	rRNA processing	0.00011187	2.3185	13	12	342	0.0048709
+-853	GOBP name	RNA export from nucleus	0.00011187	2.3185	13	12	342	0.0049125
+-853	KEGG name	Ribosome biogenesis in eukaryotes	9.236E-05	2.5117	10	10	342	0.0050567
+-853	GOBP name	negative regulation of transcription, DNA-dependent	0.0001276	1.6403	49	32	342	0.0054633
+-853	GOBP name	mitotic cell cycle	0.00014423	1.8053	32	23	342	0.006025
+-853	GOMF name	purine ribonucleoside triphosphate binding	0.00017268	1.354	128	69	342	0.0060803
+-853	GOCC name	catalytic step 2 spliceosome	0.00061867	2.2834	11	10	342	0.0062236
+-853	GOBP name	nuclear export	0.00015516	2.0931	18	15	342	0.0063776
+-853	GOBP name	regulation of transcription, DNA-dependent	0.00017268	1.354	128	69	342	0.0069859
+-853	GOMF name	magnesium ion binding	0.00023575	2.5117	9	9	342	0.007827
+-853	KEGG name	mRNA surveillance pathway	0.00023575	2.5117	9	9	342	0.008605
+-853	GOCC name	intracellular membrane-bounded organelle	0.0009409	1.1126	456	202	342	0.0090595
+-853	GOBP name	DNA recombination	0.00026424	2.3024	12	11	342	0.010057
+-853	GOBP name	regulation of nucleobase-containing compound metabolic process	0.00032995	1.27	178	90	342	0.012196
+-853	GOBP name	macromolecule modification	0.00032802	1.3721	108	59	342	0.012213
+-853	GOBP name	cellular response to stress	0.00033946	1.4013	95	53	342	0.012458
+-853	GOCC name	intracellular organelle part	0.0014209	1.0908	525	228	342	0.01277
+-853	GOMF name	structure-specific DNA binding	0.00045044	1.9829	19	15	342	0.014146
+-853	GOBP name	chromatin modification	0.0004002	1.8355	26	19	342	0.014181
+-853	GOBP name	cellular response to heat	0.00045044	1.9829	19	15	342	0.015852
+-853	GOBP name	DNA replication	0.00047761	2.1529	14	12	342	0.01636
+-853	GOBP name	chromatin remodeling	0.00047761	2.1529	14	12	342	0.01647
+-853	GOBP name	small molecule metabolic process	0.00051989	1.2631	173	87	342	0.01769
+-853	GOBP name	negative regulation of transcription from RNA polymerase II promoter	0.0005547	1.6991	34	23	342	0.01875
+-853	GOCC name	transcription factor complex	0.0022587	2.0931	12	10	342	0.01903
+-853	GOBP name	RNA secondary structure unwinding	0.00060068	2.5117	8	8	342	0.020172
+-853	GOBP name	mRNA export from nucleus	0.00061867	2.2834	11	10	342	0.020376
+-853	GOBP name	DNA conformation change	0.00061867	2.2834	11	10	342	0.020508
+-853	GOCC name	organelle part	0.0027085	1.0812	532	229	342	0.021994
+-853	GOCC name	chromosomal part	0.0027705	1.5788	35	22	342	0.02223
+-853	GOBP name	regulation of translation	0.0007528	1.8084	25	18	342	0.023729
+-853	GOCC name	preribosome	0.0038783	2.5117	6	6	342	0.028413
+-853	GOBP name	posttranscriptional regulation of gene expression	0.00096858	1.6745	33	22	342	0.0298
+-853	GOMF name	catalytic activity	0.0013243	1.1542	309	142	342	0.030777
+-853	GOMF name	transcription regulatory region DNA binding	0.001261	1.8267	22	16	342	0.031176
+-853	GOMF name	regulatory region nucleic acid binding	0.001261	1.8267	22	16	342	0.031854
+-853	GOMF name	regulatory region DNA binding	0.001261	1.8267	22	16	342	0.032562
+-853	GOMF name	transcription regulatory region sequence-specific DNA binding	0.0014339	2.2605	10	9	342	0.032671
+-853	GOCC name	nuclear membrane	0.0046863	1.6423	26	17	342	0.033248
+-853	GOMF name	ATPase activity, coupled	0.0014961	1.7389	26	18	342	0.033433
+-853	GOMF name	translation factor activity, nucleic acid binding	0.0015277	2.5117	7	7	342	0.033494
+-853	GOBP name	regulation of macromolecule metabolic process	0.0011401	1.1855	250	118	342	0.033666
+-853	GOBP name	cell cycle process	0.0011554	1.4584	62	36	342	0.033923
+-853	GOBP name	negative regulation of metabolic process	0.0013516	1.3283	104	55	342	0.038797
+-853	GOMF name	sequence-specific DNA binding	0.001815	1.9207	17	13	342	0.039055

@@ -1,0 +1,10 @@
+Cluster ID	Type	Name	P value [-Log10]	Enrichment	Total	In cluster	Cluster size	Ben. Ho. FDR
+-852	KEGG name	Cell adhesion molecules (CAMs)	3.506709286	1.9478	12	12	441	0.013639
+-852	GOBP name	regulation of leukocyte chemotaxis	2.917358222	1.9478	10	10	441	0.036134
+-852	GOBP name	humoral immune response	2.917358222	1.9478	10	10	441	0.036345
+-852	GOBP name	collagen fibril organization	2.917358222	1.9478	10	10	441	0.036559
+-852	KEGG name	ECM-receptor interaction	4.59E+00	1.8505	20	19	441	0.0028319
+-852	GOBP name	cell morphogenesis involved in differentiation	3.22764895	1.818	15	14	441	0.020979
+-852	GOBP name	immune system process	3.143736459	1.2545	118	76	441	0.024439
+-852	GOBP name	angiogenesis	3.089642443	1.5871	27	22	441	0.026288
+-852	GOMF name	growth factor binding	4.13E+00	1.7708	22	20	441	0.0057917

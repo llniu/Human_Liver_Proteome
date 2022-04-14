@@ -1,0 +1,21 @@
+Name,Term ID,Total,In cluster,Expected,Fold Enrichment,FDR [-Log 10],regulation
+extracellular matrix organization ,GO:0030198,117,55,20.22,2.72,5.76,up
+cell adhesion ,GO:0007155,347,134,59.96,2.23,10.66,up
+supramolecular fiber organization ,GO:0097435,277,107,47.86,2.24,8.25,up
+phagocytosis ,GO:0006909,100,39,17.28,2.26,2.4,up
+angiogenesis,GO:0001525,113,41,19.53,2.1,2.08,up
+leukocyte differentiation,GO:0002521,99,36,17.11,2.1,1.78,up
+cell morphogenesis ,GO:0000902,223,79,38.53,2.05,4.64,up
+cell migration ,GO:0016477,295,103,50.97,2.02,6.11,up
+movement of cell or subcellular component ,GO:0006928,463,149,80,1.86,7.5,up
+cytoskeleton organization,GO:0007010,505,157,87.26,1.8,7.2,up
+branched-chain amino acid catabolic process ,GO:0009083,19,14,2,6.99,4.22,down
+ethanol metabolic process ,GO:0006067,16,12,1.69,7.11,3.54,down
+cholesterol biosynthetic process ,GO:0006695,28,19,2.95,6.43,5.63,down
+sterol biosynthetic process ,GO:0016126,32,19,3.37,5.63,5,down
+fatty acid beta-oxidation ,GO:0006635,49,32,5.17,6.19,9.92,down
+glycine metabolic process ,GO:0006544,14,8,1.48,5.42,1.6,down
+gluconeogenesis,GO:0006094,21,11,2.21,4.97,2.25,down
+bile acid metabolic process ,GO:0008206,23,12,2.43,4.95,2.51,down
+one-carbon metabolic process ,GO:0006730,24,12,2.53,4.74,2.39,down
+retinoid metabolic process,GO:0001523,49,18,5.17,3.48,2.67,down

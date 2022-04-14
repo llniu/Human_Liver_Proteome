@@ -1,0 +1,217 @@
+Cluster ID	Type	Name	P value	Enrichment	Total	In cluster	Cluster size	Ben. Ho. FDR
+-2528	GOMF name	catalytic activity	7.3707E-47	1.1849	1226	1032	1798	1.6474E-43
+-2528	GOBP name	small molecule metabolic process	7.7846E-47	1.2444	845	747	1798	5.176E-43
+-2528	GOBP name	cellular metabolic process	1.9053E-37	1.133	1517	1221	1798	6.3342E-34
+-2528	GOBP name	metabolic process	4.0271E-32	1.1097	1658	1307	1798	8.9253E-29
+-2528	GOBP name	cellular ketone metabolic process	5.1225E-29	1.2978	397	366	1798	8.5149E-26
+-2528	GOBP name	organic acid metabolic process	4.6808E-28	1.2958	390	359	1798	6.2246E-25
+-2528	GOBP name	oxoacid metabolic process	3.0641E-27	1.294	384	353	1798	2.9105E-24
+-2528	GOBP name	carboxylic acid metabolic process	3.0641E-27	1.294	384	353	1798	3.3956E-24
+-2528	GOMF name	oxidoreductase activity	5.0059E-24	1.3001	327	302	1798	5.594E-21
+-2528	GOCC name	mitochondrial part	4.1199E-23	1.274	379	343	1798	1.2305E-20
+-2528	GOBP name	primary metabolic process	1.8957E-22	1.108	1428	1124	1798	1.4005E-19
+-2528	GOCC name	mitochondrion	3.1159E-20	1.2273	476	415	1798	3.102E-18
+-2528	GOBP name	cellular catabolic process	1.9859E-18	1.2369	404	355	1798	7.3359E-16
+-2528	GOBP name	monocarboxylic acid metabolic process	1.9576E-18	1.3359	196	186	1798	7.6566E-16
+-2528	GOBP name	oxidation-reduction process	5.9084E-18	1.2873	269	246	1798	2.0676E-15
+-2528	GOBP name	catabolic process	1.7458E-16	1.204	477	408	1798	5.5275E-14
+-2528	GOCC name	mitochondrial inner membrane	1.1408E-14	1.301	198	183	1798	7.8625E-13
+-2528	GOCC name	organelle inner membrane	1.0413E-13	1.2853	207	189	1798	6.6642E-12
+-2528	GOCC name	mitochondrial membrane	1.4639E-13	1.2574	253	226	1798	8.7441E-12
+-2528	GOBP name	small molecule biosynthetic process	6.9177E-14	1.3017	186	172	1798	1.7691E-11
+-2528	GOBP name	heterocycle metabolic process	2.2502E-13	1.2767	215	195	1798	4.9872E-11
+-2528	GOBP name	cellular amine metabolic process	5.0501E-13	1.2749	212	192	1798	1.0832E-10
+-2528	GOBP name	carboxylic acid catabolic process	6.878E-13	1.3422	129	123	1798	1.3066E-10
+-2528	GOBP name	organic acid catabolic process	6.878E-13	1.3422	129	123	1798	1.3451E-10
+-2528	GOBP name	cellular amino acid metabolic process	1.0899E-12	1.2837	193	176	1798	1.9587E-10
+-2528	GOBP name	small molecule catabolic process	2.77E-12	1.2938	173	159	1798	4.3852E-10
+-2528	GOMF name	transferase activity	8.3442E-13	1.2155	337	291	1798	4.6623E-10
+-2528	GOCC name	mitochondrial matrix	1.4802E-11	1.3159	138	129	1798	5.7662E-10
+-2528	GOBP name	biosynthetic process	3.9359E-12	1.1336	719	579	1798	6.086E-10
+-2528	GOBP name	carboxylic acid biosynthetic process	4.4517E-12	1.339	123	117	1798	6.4346E-10
+-2528	GOBP name	organic acid biosynthetic process	4.4517E-12	1.339	123	117	1798	6.5776E-10
+-2528	GOBP name	cofactor metabolic process	5.7624E-12	1.3014	159	147	1798	8.1519E-10
+-2528	GOBP name	cellular aromatic compound metabolic process	1.1087E-11	1.365	99	96	1798	1.4455E-09
+-2528	GOCC name	cytoplasmic part	8.0939E-11	1.0534	1768	1323	1798	2.9008E-09
+-2528	GOBP name	cellular biosynthetic process	3.326E-11	1.1333	672	541	1798	4.1726E-09
+-2528	GOBP name	fatty acid metabolic process	4.649E-11	1.3197	128	120	1798	5.5199E-09
+-2528	GOBP name	lipid metabolic process	1.0144E-10	1.1936	342	290	1798	1.1629E-08
+-2528	GOCC name	mitochondrial membrane part	3.8878E-10	1.3597	88	85	1798	1.2441E-08
+-2528	KEGG name	Parkinson's disease	1.4693E-10	1.3889	75	74	1798	1.8954E-08
+-2528	GOBP name	amine catabolic process	6.2267E-10	1.372	79	77	1798	6.1793E-08
+-2528	GOBP name	xenobiotic metabolic process	7.3706E-10	1.3586	86	83	1798	7.1025E-08
+-2528	GOBP name	alcohol metabolic process	7.9457E-10	1.2333	218	191	1798	7.5472E-08
+-2528	GOBP name	cellular amino acid catabolic process	1.6641E-09	1.3706	76	74	1798	1.4753E-07
+-2528	GOBP name	coenzyme metabolic process	2.5682E-09	1.3021	120	111	1798	2.2176E-07
+-2528	GOBP name	respiratory electron transport chain	6.7844E-09	1.3542	79	76	1798	5.5011E-07
+-2528	GOBP name	electron transport chain	6.7844E-09	1.3542	79	76	1798	5.5691E-07
+-2528	GOBP name	amine metabolic process	8.7367E-09	1.2083	240	206	1798	6.8342E-07
+-2528	GOMF name	cofactor binding	2.1515E-09	1.2797	143	130	1798	6.8695E-07
+-2528	GOBP name	cellular lipid metabolic process	1.6328E-08	1.1944	264	224	1798	1.2479E-06
+-2528	GOBP name	cellular nitrogen compound metabolic process	2.2697E-08	1.1018	764	598	1798	1.6583E-06
+-2528	GOBP name	cellular nitrogen compound biosynthetic process	3.3309E-08	1.2513	153	136	1798	2.3814E-06
+-2528	KEGG name	Oxidative phosphorylation	1.3426E-07	1.3336	76	72	1798	4.9486E-06
+-2528	GOBP name	monosaccharide metabolic process	9.5381E-08	1.2703	123	111	1798	6.2791E-06
+-2528	GOCC name	intracellular organelle lumen	3.158E-07	1.1848	240	202	1798	7.074E-06
+-2528	GOBP name	nitrogen compound metabolic process	1.1685E-07	1.0925	804	624	1798	7.5431E-06
+-2528	GOCC name	intracellular part	4.2362E-07	1.0241	2209	1607	1798	9.0373E-06
+-2528	GOCC name	peroxisome	7.0235E-07	1.3417	64	61	1798	1.3985E-05
+-2528	GOBP name	hormone metabolic process	2.3915E-07	1.3811	53	52	1798	1.4198E-05
+-2528	GOBP name	heterocycle catabolic process	2.5049E-07	1.4077	44	44	1798	1.4739E-05
+-2528	GOMF name	oxidoreductase activity, acting on CH-OH group of donors	7.3773E-08	1.3355	78	74	1798	1.832E-05
+-2528	GOBP name	cellular carbohydrate metabolic process	3.4042E-07	1.2055	195	167	1798	1.9513E-05
+-2528	GOCC name	microbody	1.4373E-06	1.3126	74	69	1798	2.5251E-05
+-2528	GOBP name	generation of precursor metabolites and energy	5.4591E-07	1.22	165	143	1798	3.0502E-05
+-2528	GOBP name	cellular modified amino acid metabolic process	6.1399E-07	1.3163	77	72	1798	3.402E-05
+-2528	GOBP name	cellular nitrogen compound catabolic process	7.1333E-07	1.4077	41	41	1798	3.9198E-05
+-2528	GOCC name	membrane-enclosed lumen	2.684E-06	1.1554	279	229	1798	4.4534E-05
+-2528	KEGG name	Peroxisome	2.3432E-06	1.3373	60	57	1798	5.0379E-05
+-2528	KEGG name	Valine, leucine and isoleucine degradation	4.0676E-06	1.4077	36	36	1798	7.496E-05
+-2528	KEGG name	Drug metabolism - cytochrome P450	4.6033E-06	1.3757	44	43	1798	7.9177E-05
+-2528	GOCC name	NADH dehydrogenase complex	5.7588E-06	1.4077	35	35	1798	8.3224E-05
+-2528	GOCC name	mitochondrial respiratory chain complex I	5.7588E-06	1.4077	35	35	1798	8.4588E-05
+-2528	GOCC name	respiratory chain complex I	5.7588E-06	1.4077	35	35	1798	8.5998E-05
+-2528	GOCC name	endoplasmic reticulum membrane	5.6922E-06	1.1624	241	199	1798	8.6445E-05
+-2528	GOBP name	steroid metabolic process	1.7112E-06	1.2683	101	91	1798	8.8197E-05
+-2528	GOMF name	coenzyme binding	4.8444E-07	1.2749	106	96	1798	0.00010827
+-2528	GOCC name	organelle lumen	7.7667E-06	1.1532	260	213	1798	0.00010873
+-2528	GOBP name	nucleobase-containing small molecule metabolic process	2.5313E-06	1.2254	139	121	1798	0.0001275
+-2528	GOBP name	cellular protein metabolic process	2.6453E-06	1.1078	521	410	1798	0.00013126
+-2528	KEGG name	Retinol metabolism	8.1517E-06	1.4077	34	34	1798	0.00013145
+-2528	GOMF name	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	7.917E-07	1.3272	70	66	1798	0.00016086
+-2528	KEGG name	Metabolism of xenobiotics by cytochrome P450	1.2194E-05	1.3733	41	40	1798	0.00018507
+-2528	GOBP name	purine-containing compound metabolic process	4.7066E-06	1.286	81	74	1798	0.00021732
+-2528	GOCC name	peroxisomal part	1.8522E-05	1.328	53	50	1798	0.00023374
+-2528	KEGG name	Alzheimer's disease	1.8323E-05	1.2686	81	73	1798	0.00023637
+-2528	GOCC name	microbody part	1.8522E-05	1.328	53	50	1798	0.00023708
+-2528	GOBP name	vitamin metabolic process	5.9857E-06	1.3183	63	59	1798	0.0002726
+-2528	GOBP name	lipid biosynthetic process	7.8184E-06	1.2108	143	123	1798	0.00034656
+-2528	GOMF name	lyase activity	2.5196E-06	1.3099	72	67	1798	0.00040224
+-2528	KEGG name	Huntington's disease	3.9029E-05	1.255	83	74	1798	0.0004795
+-2528	GOBP name	mitochondrial electron transport, NADH to ubiquinone	1.1537E-05	1.4077	33	33	1798	0.00049812
+-2528	GOBP name	cellular hormone metabolic process	1.2194E-05	1.3733	41	40	1798	0.0005231
+-2528	GOBP name	protein metabolic process	1.5412E-05	1.0891	601	465	1798	0.00065272
+-2528	KEGG name	Fatty acid metabolism	6.0883E-05	1.3686	36	35	1798	0.00068294
+-2528	GOBP name	regulation of hormone levels	1.8522E-05	1.3122	59	55	1798	0.00077455
+-2528	GOBP name	heterocycle biosynthetic process	1.9062E-05	1.2604	86	77	1798	0.00079216
+-2528	GOBP name	nucleotide metabolic process	1.9532E-05	1.22	120	104	1798	0.00080165
+-2528	GOBP name	nucleoside phosphate metabolic process	1.9532E-05	1.22	120	104	1798	0.00080663
+-2528	GOBP name	nucleobase-containing compound biosynthetic process	1.9994E-05	1.287	70	64	1798	0.0008156
+-2528	GOBP name	monocarboxylic acid catabolic process	2.4767E-05	1.3265	52	49	1798	0.00099202
+-2528	KEGG name	Steroid hormone biosynthesis	9.24E-05	1.4077	27	27	1798	0.0009933
+-2528	GOMF name	adenyl nucleotide binding	7.1939E-06	1.1485	277	226	1798	0.0010719
+-2528	GOMF name	transferase activity, transferring one-carbon groups	8.1517E-06	1.4077	34	34	1798	0.0011387
+-2528	GOBP name	cofactor biosynthetic process	2.9592E-05	1.296	63	58	1798	0.0011712
+-2528	GOCC name	endoplasmic reticulum part	0.00012265	1.1153	313	248	1798	0.0012076
+-2528	GOMF name	adenyl ribonucleotide binding	1.1476E-05	1.1457	274	223	1798	0.0013499
+-2528	GOMF name	ATP binding	1.13E-05	1.147	270	220	1798	0.0014031
+-2528	GOBP name	hexose metabolic process	3.7155E-05	1.2353	98	86	1798	0.0014363
+-2528	GOBP name	fatty acid oxidation	4.1257E-05	1.3437	44	42	1798	0.0015765
+-2528	GOBP name	lipid oxidation	4.1257E-05	1.3437	44	42	1798	0.0015856
+-2528	GOBP name	cellular amino acid biosynthetic process	4.2597E-05	1.3071	56	52	1798	0.0016184
+-2528	GOMF name	monooxygenase activity	1.6848E-05	1.3725	40	39	1798	0.0017116
+-2528	GOBP name	sulfur compound metabolic process	4.9108E-05	1.2459	87	77	1798	0.0017941
+-2528	GOCC name	intracellular membrane-bounded organelle	0.00019927	1.0363	1414	1041	1798	0.0018035
+-2528	KEGG name	Propanoate metabolism	0.00018462	1.4077	25	25	1798	0.001832
+-2528	GOMF name	carboxylic acid binding	1.9994E-05	1.287	70	64	1798	0.001862
+-2528	GOMF name	oxidoreductase activity, acting on the CH-CH group of donors	2.3259E-05	1.3716	39	38	1798	0.0020793
+-2528	GOMF name	vitamin binding	2.4767E-05	1.3265	52	49	1798	0.002129
+-2528	GOCC name	organelle membrane	0.00026371	1.0637	712	538	1798	0.0023395
+-2528	GOMF name	oxidoreductase activity, acting on NADH or NADPH, quinone or similar compound as acceptor	3.0485E-05	1.3451	45	43	1798	0.0025235
+-2528	GOMF name	oxidoreductase activity, acting on NADH or NADPH	3.2318E-05	1.3089	57	53	1798	0.0025797
+-2528	KEGG name	Methane metabolism	0.00036865	1.4077	23	23	1798	0.0030681
+-2528	KEGG name	Tryptophan metabolism	0.00036865	1.4077	23	23	1798	0.0031704
+-2528	KEGG name	Glycine, serine and threonine metabolism	0.00036865	1.4077	23	23	1798	0.0032797
+-2528	GOBP name	carbohydrate metabolic process	0.00011337	1.1414	222	180	1798	0.0037132
+-2528	GOBP name	very long-chain fatty acid metabolic process	0.0001151	1.3663	34	33	1798	0.0037333
+-2528	GOBP name	fatty acid beta-oxidation	0.0001151	1.3663	34	33	1798	0.0037516
+-2528	GOBP name	purine nucleotide metabolic process	0.00011961	1.2736	63	57	1798	0.0038421
+-2528	GOBP name	amine biosynthetic process	0.00011961	1.2736	63	57	1798	0.0038608
+-2528	GOMF name	tetrapyrrole binding	5.8733E-05	1.3215	49	46	1798	0.0042345
+-2528	GOBP name	nucleoside metabolic process	0.00013664	1.3373	40	38	1798	0.0042855
+-2528	GOMF name	iron ion binding	5.6122E-05	1.2797	66	60	1798	0.0043252
+-2528	GOBP name	steroid biosynthetic process	0.00014303	1.2842	57	52	1798	0.0044029
+-2528	GOMF name	methyltransferase activity	6.5352E-05	1.4077	28	28	1798	0.0045644
+-2528	GOBP name	nucleotide biosynthetic process	0.00015339	1.2714	62	56	1798	0.0046148
+-2528	KEGG name	PPAR signaling pathway	0.0005905	1.3272	35	33	1798	0.0046166
+-2528	GOMF name	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	8.5166E-05	1.2884	59	54	1798	0.0052874
+-2528	GOMF name	NADH dehydrogenase activity	8.3754E-05	1.3675	35	34	1798	0.0053483
+-2528	GOBP name	one-carbon metabolic process	0.0001819	1.3138	45	42	1798	0.0053515
+-2528	GOBP name	coenzyme biosynthetic process	0.0001819	1.3138	45	42	1798	0.0053753
+-2528	GOBP name	glucose metabolic process	0.00018843	1.2339	81	71	1798	0.0054711
+-2528	GOMF name	NADH dehydrogenase (ubiquinone) activity	8.3754E-05	1.3675	35	34	1798	0.0055056
+-2528	GOMF name	NADH dehydrogenase (quinone) activity	8.3754E-05	1.3675	35	34	1798	0.0056724
+-2528	GOBP name	protein modification process	0.00020709	1.1066	332	261	1798	0.0058845
+-2528	GOCC name	peroxisomal matrix	0.00075736	1.3574	28	27	1798	0.0059525
+-2528	GOCC name	microbody lumen	0.00075736	1.3574	28	27	1798	0.0060052
+-2528	GOBP name	nucleobase metabolic process	0.00021672	1.3637	32	31	1798	0.0060799
+-2528	GOBP name	fatty acid biosynthetic process	0.00021672	1.3637	32	31	1798	0.0061057
+-2528	GOMF name	heme binding	0.00010369	1.3178	47	44	1798	0.0062634
+-2528	KEGG name	Butanoate metabolism	0.0010389	1.4077	20	20	1798	0.0074455
+-2528	KEGG name	Drug metabolism - other enzymes	0.001032	1.3555	27	26	1798	0.0076072
+-2528	GOBP name	acetyl-CoA metabolic process	0.00029687	1.3623	31	30	1798	0.0080896
+-2528	GOBP name	fatty acid catabolic process	0.00031691	1.3095	43	40	1798	0.0084284
+-2528	GOMF name	amino acid binding	0.00015802	1.365	33	32	1798	0.009056
+-2528	GOBP name	peptidyl-amino acid modification	0.00035038	1.1788	123	103	1798	0.0092815
+-2528	GOMF name	amine binding	0.00018369	1.3355	39	37	1798	0.0095477
+-2528	GOBP name	serine family amino acid metabolic process	0.00036865	1.4077	23	23	1798	0.0097269
+-2528	GOMF name	transferase activity, transferring hexosyl groups	0.00018369	1.3355	39	37	1798	0.009775
+-2528	GOBP name	protein N-linked glycosylation	0.00040686	1.2621	58	52	1798	0.010286
+-2528	GOBP name	gluconeogenesis	0.00040617	1.3608	30	29	1798	0.010308
+-2528	GOBP name	macromolecule modification	0.00044522	1.0957	352	274	1798	0.010964
+-2528	KEGG name	Glycolysis / Gluconeogenesis	0.0016869	1.2736	42	38	1798	0.011763
+-2528	GOBP name	cellular carbohydrate biosynthetic process	0.00049605	1.2396	67	59	1798	0.012126
+-2528	GOMF name	hydro-lyase activity	0.00026091	1.4077	24	24	1798	0.013253
+-2528	GOBP name	cellular aldehyde metabolic process	0.00055501	1.3591	29	28	1798	0.013419
+-2528	GOBP name	hexose biosynthetic process	0.0005905	1.3272	35	33	1798	0.013776
+-2528	KEGG name	Tyrosine metabolism	0.0020711	1.4077	18	18	1798	0.014061
+-2528	GOBP name	protein N-linked glycosylation via asparagine	0.00065442	1.2569	56	50	1798	0.014902
+-2528	GOBP name	peptidyl-asparagine modification	0.00065442	1.2569	56	50	1798	0.014953
+-2528	GOMF name	nucleotide binding	0.00032077	1.0828	468	360	1798	0.015254
+-2528	GOMF name	transferase activity, transferring glycosyl groups	0.00031977	1.2645	59	53	1798	0.015537
+-2528	GOMF name	hydrolase activity	0.00034773	1.0835	456	351	1798	0.016191
+-2528	GOBP name	bile acid metabolic process	0.00073563	1.4077	21	21	1798	0.016414
+-2528	GOBP name	fat-soluble vitamin metabolic process	0.00073563	1.4077	21	21	1798	0.016469
+-2528	GOBP name	aromatic compound catabolic process	0.00073563	1.4077	21	21	1798	0.016524
+-2528	GOBP name	nucleobase-containing compound catabolic process	0.00073563	1.4077	21	21	1798	0.01658
+-2528	GOBP name	ribonucleoside monophosphate metabolic process	0.00073563	1.4077	21	21	1798	0.016637
+-2528	GOBP name	cofactor catabolic process	0.00075736	1.3574	28	27	1798	0.01673
+-2528	GOBP name	dicarboxylic acid metabolic process	0.00078721	1.3249	34	32	1798	0.017275
+-2528	KEGG name	Purine metabolism	0.0026887	1.287	35	32	1798	0.017342
+-2528	GOBP name	purine-containing compound biosynthetic process	0.00079354	1.2825	45	41	1798	0.017356
+-2528	KEGG name	Arachidonic acid metabolism	0.0029234	1.4077	17	17	1798	0.017541
+-2528	GOBP name	ribonucleotide biosynthetic process	0.0009399	1.2994	39	36	1798	0.019652
+-2528	GOBP name	secondary metabolic process	0.0010389	1.4077	20	20	1798	0.020682
+-2528	GOBP name	sulfur amino acid metabolic process	0.0010389	1.4077	20	20	1798	0.020744
+-2528	GOBP name	sulfur compound biosynthetic process	0.001032	1.3555	27	26	1798	0.020793
+-2528	GOBP name	cellular modified amino acid biosynthetic process	0.0010389	1.4077	20	20	1798	0.020806
+-2528	GOBP name	drug metabolic process	0.0010389	1.4077	20	20	1798	0.020869
+-2528	GOBP name	lipid catabolic process	0.0010248	1.2017	82	70	1798	0.020965
+-2528	GOCC name	peroxisomal membrane	0.0032116	1.3106	29	27	1798	0.021004
+-2528	GOCC name	microbody membrane	0.0032116	1.3106	29	27	1798	0.021159
+-2528	GOMF name	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NADH or NADPH as one donor, and incorporation of one atom of oxygen	0.00052081	1.4077	22	22	1798	0.022824
+-2528	GOMF name	pyridoxal phosphate binding	0.00055501	1.3591	29	28	1798	0.022971
+-2528	GOMF name	purine nucleotide binding	0.00053865	1.0935	354	275	1798	0.023151
+-2528	GOMF name	vitamin B6 binding	0.00055501	1.3591	29	28	1798	0.023404
+-2528	GOBP name	unsaturated fatty acid metabolic process	0.0012268	1.2965	38	35	1798	0.023713
+-2528	GOBP name	monosaccharide biosynthetic process	0.0013367	1.261	48	43	1798	0.025539
+-2528	GOBP name	monocarboxylic acid transport	0.0014041	1.3535	26	25	1798	0.026597
+-2528	GOBP name	purine base metabolic process	0.001467	1.4077	19	19	1798	0.027322
+-2528	GOBP name	cellular amide metabolic process	0.001467	1.4077	19	19	1798	0.027399
+-2528	GOMF name	ribonucleotide binding	0.00073484	1.0908	351	272	1798	0.029328
+-2528	GOMF name	purine ribonucleoside triphosphate binding	0.00075188	1.0913	347	269	1798	0.029481
+-2528	GOBP name	post-translational protein modification	0.0016086	1.1898	84	71	1798	0.02971
+-2528	GOBP name	ribonucleotide metabolic process	0.0016938	1.2579	47	42	1798	0.031026
+-2528	GOMF name	purine ribonucleotide binding	0.00081334	1.0899	350	271	1798	0.031341
+-2528	GOBP name	cellular lipid catabolic process	0.0018059	1.2231	61	53	1798	0.03254
+-2528	KEGG name	Cysteine and methionine metabolism	0.0058222	1.4077	15	15	1798	0.032655
+-2528	KEGG name	beta-Alanine metabolism	0.0058222	1.4077	15	15	1798	0.03338
+-2528	GOBP name	regulation of generation of precursor metabolites and energy	0.0019071	1.3514	25	24	1798	0.033996
+-2528	GOBP name	nucleoside monophosphate metabolic process	0.0019071	1.3514	25	24	1798	0.034087
+-2528	GOBP name	glycerolipid metabolic process	0.002011	1.1984	74	63	1798	0.035752
+-2528	GOMF name	UDP-glycosyltransferase activity	0.0010389	1.4077	20	20	1798	0.037451
+-2528	GOBP name	water-soluble vitamin metabolic process	0.0021581	1.2703	41	37	1798	0.037465
+-2528	GOMF name	metal cluster binding	0.001032	1.3555	27	26	1798	0.037811
+-2528	GOBP name	alcohol biosynthetic process	0.0022205	1.22	60	52	1798	0.038053
+-2528	GOMF name	iron-sulfur cluster binding	0.001032	1.3555	27	26	1798	0.038442
+-2528	GOBP name	mitochondrion organization	0.002301	1.1845	82	69	1798	0.039229

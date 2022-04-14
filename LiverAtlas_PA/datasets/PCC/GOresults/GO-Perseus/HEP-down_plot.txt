@@ -1,0 +1,12 @@
+Cluster ID	Type	Name	P value [-Log10]	Enrichment	Total	In cluster	Cluster size	Ben. Ho. FDR
+-2528	GOCC name	NADH dehydrogenase complex	5.24E+00	1.4077	35	35	1798	8.32E-05
+-2528	KEGG name	Retinol metabolism	5.09E+00	1.4077	34	34	1798	0.00013145
+-2528	GOBP name	drug metabolic process	2.983426254	1.4077	20	20	1798	0.020869
+-2528	GOBP name	lipid oxidation	4.38E+00	1.3437	44	42	1798	0.0015856
+-2528	KEGG name	Oxidative phosphorylation	6.87E+00	1.3336	76	72	1798	4.95E-06
+-2528	KEGG name	PPAR signaling pathway	3.228780098	1.3272	35	33	1798	0.0046166
+-2528	GOMF name	vitamin binding	4.61E+00	1.3265	52	49	1798	0.002129
+-2528	GOMF name	heme binding	3.984263126	1.3178	47	44	1798	0.0062634
+-2528	GOMF name	oxidoreductase activity	2.33E+01	1.3001	327	302	1798	5.59E-21
+-2528	KEGG name	Glycolysis / Gluconeogenesis	2.772910662	1.2736	42	38	1798	0.011763
+-2528	GOBP name	metabolic process	3.14E+01	1.1097	1658	1307	1798	8.93E-29

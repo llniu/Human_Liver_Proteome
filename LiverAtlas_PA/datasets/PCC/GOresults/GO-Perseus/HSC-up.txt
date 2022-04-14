@@ -1,0 +1,213 @@
+Cluster ID	Type	Name	P value	Enrichment	Total	In cluster	Cluster size	Ben. Ho. FDR
+-852	GOCC name	membrane part	1.7264E-18	1.3714	321	226	441	5.8179E-16
+-852	GOCC name	integral to membrane	3.2083E-16	1.4804	200	152	441	4.3248E-14
+-852	GOCC name	intrinsic to membrane	2.5188E-16	1.4702	208	157	441	5.659E-14
+-852	GOCC name	plasma membrane	7.2934E-15	1.432	219	161	441	7.0225E-13
+-852	GOCC name	extracellular region part	6.5052E-15	1.295	367	244	441	7.3075E-13
+-852	GOCC name	vesicle	3.5248E-14	1.2949	355	236	441	2.9697E-12
+-852	GOCC name	plasma membrane part	1.5006E-13	1.5238	147	115	441	1.0114E-11
+-852	GOCC name	membrane-bounded vesicle	4.9119E-13	1.2891	343	227	441	3.0096E-11
+-852	GOCC name	vacuolar part	6.1213E-13	1.7933	63	58	441	3.4381E-11
+-852	GOCC name	extracellular vesicular exosome	4.9031E-11	1.282	313	206	441	2.2031E-09
+-852	GOCC name	extracellular organelle	4.9031E-11	1.282	313	206	441	2.3605E-09
+-852	GOCC name	extracellular membrane-bounded organelle	4.9031E-11	1.282	313	206	441	2.5421E-09
+-852	GOCC name	cell surface	2.6221E-10	1.7428	57	51	441	9.8182E-09
+-852	GOCC name	vacuolar membrane	2.5254E-10	1.8208	46	43	441	1.0012E-08
+-852	GOCC name	lysosomal membrane	2.3795E-10	1.8551	42	40	441	1.0023E-08
+-852	GOCC name	extracellular region	4.9126E-09	1.5826	80	65	441	1.5767E-07
+-852	GOBP name	locomotion	1.2876E-09	1.5541	94	75	441	4.4104E-07
+-852	GOCC name	extracellular space	2.0739E-08	1.4895	102	78	441	5.5913E-07
+-852	GOCC name	cytoplasmic vesicle	2.0006E-08	1.5127	94	73	441	5.6184E-07
+-852	GOBP name	extracellular matrix organization	3.6171E-09	1.7044	56	49	441	1.0932E-06
+-852	GOBP name	vesicle-mediated transport	3.9246E-09	1.5539	89	71	441	1.1203E-06
+-852	GOBP name	extracellular structure organization	3.6171E-09	1.7044	56	49	441	1.1615E-06
+-852	GOCC name	cytoplasmic membrane-bounded vesicle	5.2456E-08	1.539	81	64	441	1.3094E-06
+-852	GOCC name	Golgi apparatus part	1.2985E-07	1.6023	62	51	441	2.9172E-06
+-852	GOBP name	response to external stimulus	1.5011E-08	1.4789	108	82	441	4.0592E-06
+-852	GOCC name	organelle lumen	1.9853E-07	1.5699	67	54	441	4.3164E-06
+-852	GOCC name	membrane-enclosed lumen	3.0266E-07	1.5526	69	55	441	6.3748E-06
+-852	GOCC name	extracellular matrix	4.7616E-07	1.776	34	31	441	9.7252E-06
+-852	GOCC name	membrane	1.0962E-06	1.1478	448	264	441	2.1731E-05
+-852	GOBP name	cell adhesion	1.2317E-07	1.5203	82	64	441	2.6368E-05
+-852	GOCC name	cytoplasmic vesicle part	1.5401E-06	1.5583	60	48	441	2.9658E-05
+-852	GOBP name	regulation of response to stimulus	2.2081E-07	1.3241	178	121	441	4.2019E-05
+-852	GOBP name	chemotaxis	2.1967E-07	1.6291	55	46	441	4.341E-05
+-852	GOBP name	taxis	2.1967E-07	1.6291	55	46	441	4.5147E-05
+-852	GOBP name	biological adhesion	2.7699E-07	1.502	83	64	441	5.0827E-05
+-852	GOCC name	intracellular organelle lumen	2.8571E-06	1.5803	53	43	441	5.3491E-05
+-852	GOBP name	secretion by cell	4.5679E-07	1.7103	41	36	441	7.5709E-05
+-852	GOBP name	regulation of signal transduction	4.5038E-07	1.3767	133	94	441	7.7134E-05
+-852	GOBP name	regulation of biological quality	5.1575E-07	1.3056	185	124	441	8.281E-05
+-852	GOBP name	cell communication	6.3187E-07	1.6171	53	44	441	9.5487E-05
+-852	GOBP name	axon guidance	8.0908E-07	1.7044	40	35	441	0.00011547
+-852	GOBP name	regulation of signaling	8.6673E-07	1.3368	153	105	441	0.00012036
+-852	GOCC name	extracellular matrix part	7.1887E-06	1.8593	22	21	441	0.00013095
+-852	GOCC name	vesicle membrane	8.4253E-06	1.6232	42	35	441	0.00014944
+-852	GOBP name	cell-cell signaling	1.1732E-06	1.7314	36	32	441	0.00015069
+-852	GOBP name	signaling	1.1732E-06	1.7314	36	32	441	0.00015456
+-852	GOBP name	regulation of cell communication	1.1527E-06	1.362	133	93	441	0.00015585
+-852	GOBP name	positive regulation of response to stimulus	1.597E-06	1.3989	110	79	441	0.00019536
+-852	GOBP name	exocytosis	1.5922E-06	1.7652	32	29	441	0.00019953
+-852	GOBP name	transport	1.8671E-06	1.2504	229	147	441	0.0002231
+-852	GOBP name	cellular component movement	1.9194E-06	1.4609	84	63	441	0.00022414
+-852	GOMF name	receptor activity	5.8785E-07	1.6577	47	40	441	0.0002277
+-852	GOBP name	cell-cell adhesion	2.0958E-06	1.7252	35	31	441	0.0002393
+-852	GOBP name	establishment of localization	2.3301E-06	1.2433	235	150	441	0.00026027
+-852	GOCC name	cell junction	1.7679E-05	1.3512	111	77	441	0.00030553
+-852	GOCC name	cytoplasmic vesicle membrane	2.349E-05	1.607	40	33	441	0.0003958
+-852	GOBP name	cell migration	3.6722E-06	1.5327	61	48	441	0.00040144
+-852	GOCC name	cell-substrate adherens junction	2.5828E-05	1.447	70	52	441	0.00040484
+-852	GOCC name	focal adhesion	2.5828E-05	1.447	70	52	441	0.00041448
+-852	GOCC name	cell-substrate junction	2.5828E-05	1.447	70	52	441	0.00042459
+-852	GOBP name	positive regulation of intracellular protein kinase cascade	5.001E-06	1.6308	43	36	441	0.00050382
+-852	GOBP name	cell motility	5.2326E-06	1.515	63	49	441	0.00051702
+-852	GOBP name	multicellular organismal process	5.7129E-06	1.2872	171	113	441	0.00054357
+-852	GOMF name	receptor binding	1.9194E-06	1.4609	84	63	441	0.0005576
+-852	GOCC name	Golgi membrane	3.8853E-05	1.5982	39	32	441	0.00059516
+-852	GOCC name	adherens junction	4.1077E-05	1.4214	74	54	441	0.00061524
+-852	GOCC name	anchoring junction	5.0734E-05	1.4096	76	55	441	0.00074336
+-852	GOBP name	regulation of intracellular protein kinase cascade	1.0366E-05	1.5305	56	44	441	0.00090268
+-852	GOCC name	integral to plasma membrane	6.3318E-05	1.4983	52	40	441	0.00090801
+-852	GOCC name	basement membrane	7.9789E-05	1.9478	14	14	441	0.0010975
+-852	GOCC name	melanosome	0.00010491	1.6696	28	24	441	0.0013864
+-852	GOCC name	pigment granule	0.00010491	1.6696	28	24	441	0.0014142
+-852	GOCC name	intrinsic to plasma membrane	0.00011158	1.4609	56	42	441	0.0014462
+-852	GOBP name	anatomical structure morphogenesis	1.9772E-05	1.3797	96	68	441	0.0015873
+-852	GOBP name	chemical homeostasis	2.3335E-05	1.4684	65	49	441	0.0018166
+-852	GOCC name	organelle membrane	0.00016001	1.2023	209	129	441	0.0020349
+-852	GOBP name	regulation of multicellular organismal development	3.5267E-05	1.3881	87	62	441	0.0024822
+-852	GOCC name	endosomal part	0.00022206	1.5203	41	32	441	0.0025367
+-852	GOCC name	cell projection	0.0002203	1.366	77	54	441	0.00256
+-852	GOCC name	endosome membrane	0.00024737	1.5378	38	30	441	0.0026464
+-852	GOCC name	cell projection part	0.00024737	1.5378	38	30	441	0.0026891
+-852	GOCC name	endoplasmic reticulum lumen	0.00024221	1.7531	20	18	441	0.0027208
+-852	KEGG name	ECM-receptor interaction	2.5862E-05	1.8505	20	19	441	0.0028319
+-852	GOCC name	Golgi apparatus	0.00027174	1.4	64	46	441	0.0028618
+-852	GOCC name	vacuole	0.00029089	1.5826	32	26	441	0.0030163
+-852	GOCC name	blood microparticle	0.0003195	1.8261	16	15	441	0.0031209
+-852	GOCC name	endocytic vesicle	0.0003195	1.8261	16	15	441	0.0031668
+-852	GOMF name	active transmembrane transporter activity	2.2573E-05	1.7855	24	22	441	0.0032787
+-852	GOMF name	protein complex binding	2.0298E-05	1.6965	31	27	441	0.0033695
+-852	GOCC name	endoplasmic reticulum	0.00037726	1.3608	73	51	441	0.0036325
+-852	GOBP name	positive regulation of signal transduction	6.0722E-05	1.4142	73	53	441	0.0037589
+-852	GOBP name	establishment of localization in cell	6.2104E-05	1.2844	138	91	441	0.0037987
+-852	GOCC name	endosome	0.00040309	1.4717	45	34	441	0.0038265
+-852	GOBP name	regulation of multicellular organismal process	6.8456E-05	1.28	140	92	441	0.0040428
+-852	GOBP name	positive regulation of MAPKKK cascade	7.4764E-05	1.7708	22	20	441	0.0043161
+-852	GOBP name	positive regulation of cell communication	7.468E-05	1.3878	80	57	441	0.0043603
+-852	GOMF name	transmembrane transporter activity	6.5603E-05	1.6139	35	29	441	0.0054451
+-852	GOMF name	carbohydrate binding	6.3837E-05	1.589	38	31	441	0.005706
+-852	GOMF name	growth factor binding	7.4764E-05	1.7708	22	20	441	0.0057917
+-852	GOMF name	integrin binding	7.9789E-05	1.9478	14	14	441	0.0057947
+-852	GOBP name	cellular cation homeostasis	0.00010415	1.5793	37	30	441	0.0058807
+-852	GOBP name	platelet activation	0.00010858	1.6041	34	28	441	0.0059989
+-852	GOBP name	positive regulation of signaling	0.0001078	1.3808	79	56	441	0.0060205
+-852	GOMF name	polysaccharide binding	9.3716E-05	1.7141	25	22	441	0.0060499
+-852	GOBP name	secretion	0.00011175	1.5015	48	37	441	0.006108
+-852	GOMF name	pattern binding	9.3716E-05	1.7141	25	22	441	0.0064058
+-852	GOCC name	stored secretory granule	0.00076462	1.7314	18	16	441	0.0068714
+-852	GOCC name	vacuolar lumen	0.00076462	1.7314	18	16	441	0.0069642
+-852	GOCC name	lysosomal lumen	0.00076462	1.7314	18	16	441	0.0070596
+-852	GOCC name	lytic vacuole	0.0008135	1.5871	27	22	441	0.0071208
+-852	GOCC name	lysosome	0.0008135	1.5871	27	22	441	0.0072145
+-852	GOCC name	proteinaceous extracellular matrix	0.00084065	1.6696	21	18	441	0.0072641
+-852	GOBP name	blood coagulation	0.00014314	1.4441	58	43	441	0.0073548
+-852	GOBP name	hemostasis	0.00014314	1.4441	58	43	441	0.0074291
+-852	GOBP name	anatomical structure formation involved in morphogenesis	0.00014314	1.4441	58	43	441	0.0075049
+-852	GOBP name	coagulation	0.00014314	1.4441	58	43	441	0.0075822
+-852	GOBP name	positive regulation of locomotion	0.00015579	1.5483	39	31	441	0.0078476
+-852	GOMF name	substrate-specific transmembrane transporter activity	0.00017841	1.5937	33	27	441	0.0079735
+-852	KEGG name	Phagosome	0.00010935	1.6337	31	26	441	0.0079823
+-852	GOMF name	signal transducer activity	0.0001727	1.492	47	36	441	0.0080272
+-852	GOMF name	protein binding	0.00019102	1.1406	333	195	441	0.0082208
+-852	GOMF name	glycosaminoglycan binding	0.00016396	1.7044	24	21	441	0.0082835
+-852	GOMF name	molecular transducer activity	0.0001727	1.492	47	36	441	0.0083616
+-852	GOBP name	regulation of response to external stimulus	0.0001727	1.492	47	36	441	0.008615
+-852	GOMF name	calcium ion binding	0.00015028	1.4804	50	38	441	0.0087314
+-852	GOCC name	late endosome membrane	0.0010909	1.8087	14	13	441	0.0091912
+-852	GOMF name	substrate-specific transporter activity	0.00022899	1.4708	49	37	441	0.0095032
+-852	GOCC name	phagocytic vesicle	0.0012096	1.9478	10	10	441	0.0099426
+-852	GOBP name	signal transduction	0.00021916	1.175	247	149	441	0.010524
+-852	GOBP name	cell activation	0.00022294	1.4138	62	45	441	0.010606
+-852	GOBP name	positive regulation of cell proliferation	0.00022661	1.3955	67	48	441	0.010682
+-852	GOBP name	cellular chemical homeostasis	0.00022899	1.4708	49	37	441	0.010696
+-852	GOBP name	positive regulation of cell motility	0.00024737	1.5378	38	30	441	0.011248
+-852	GOCC name	external side of plasma membrane	0.0014008	1.6091	23	19	441	0.011375
+-852	GOCC name	endocytic vesicle membrane	0.0014258	1.6557	20	17	441	0.011441
+-852	KEGG name	Lysosome	0.0003195	1.8261	16	15	441	0.011662
+-852	GOBP name	cellular ion homeostasis	0.00026489	1.4821	46	35	441	0.011939
+-852	GOBP name	metal ion homeostasis	0.00029089	1.5826	32	26	441	0.012666
+-852	GOBP name	regulation of protein processing	0.00031138	1.9478	12	12	441	0.013444
+-852	GOBP name	positive regulation of chemotaxis	0.0003195	1.8261	16	15	441	0.013456
+-852	GOBP name	cellular homeostasis	0.00031553	1.4261	56	41	441	0.01351
+-852	GOBP name	positive regulation of behavior	0.0003195	1.8261	16	15	441	0.013567
+-852	KEGG name	Cell adhesion molecules (CAMs)	0.00031138	1.9478	12	12	441	0.013639
+-852	GOBP name	ion homeostasis	0.00034625	1.4609	48	36	441	0.013899
+-852	GOBP name	cation homeostasis	0.0003462	1.5096	40	31	441	0.014006
+-852	GOBP name	tissue development	0.0003462	1.5096	40	31	441	0.014117
+-852	GOBP name	response to stimulus	0.00034342	1.1152	393	225	441	0.01423
+-852	GOBP name	positive regulation of cellular component movement	0.0003462	1.5096	40	31	441	0.01423
+-852	GOBP name	homeostatic process	0.00034277	1.3377	83	57	441	0.014318
+-852	GOBP name	regulation of body fluid levels	0.0003926	1.3913	63	45	441	0.015398
+-852	GOBP name	regulation of cell adhesion	0.00038963	1.5267	37	29	441	0.015399
+-852	GOBP name	biological regulation	0.00039903	1.0771	557	308	441	0.015415
+-852	GOCC name	platelet alpha granule lumen	0.0019977	1.798	13	12	441	0.015476
+-852	GOBP name	positive regulation of cell migration	0.00038963	1.5267	37	29	441	0.015519
+-852	GOCC name	secretory granule lumen	0.0019977	1.798	13	12	441	0.015656
+-852	GOMF name	heparin binding	0.00043186	1.7428	19	17	441	0.015682
+-852	GOBP name	response to mechanical stimulus	0.00043186	1.7428	19	17	441	0.016196
+-852	GOBP name	ion transmembrane transport	0.00043186	1.7428	19	17	441	0.016315
+-852	GOBP name	platelet degranulation	0.00043186	1.7428	19	17	441	0.016436
+-852	GOBP name	cellular metal ion homeostasis	0.00047042	1.5708	31	25	441	0.017389
+-852	GOCC name	phagocytic vesicle membrane	0.0023801	1.9478	9	9	441	0.017628
+-852	GOCC name	membrane-bounded organelle	0.0024664	1.0551	600	325	441	0.018069
+-852	KEGG name	Leukocyte transendothelial migration	0.00059204	1.818	15	14	441	0.018522
+-852	GOBP name	receptor-mediated endocytosis	0.0005093	1.6362	25	21	441	0.018559
+-852	GOBP name	ion transport	0.00051938	1.4505	47	35	441	0.018793
+-852	GOMF name	protease binding	0.00059204	1.818	15	14	441	0.020234
+-852	GOMF name	extracellular matrix binding	0.00061408	1.9478	11	11	441	0.020387
+-852	GOBP name	cell morphogenesis involved in differentiation	0.00059204	1.818	15	14	441	0.020979
+-852	GOBP name	endothelial cell migration	0.00061408	1.9478	11	11	441	0.021175
+-852	GOBP name	ossification	0.00061408	1.9478	11	11	441	0.021318
+-852	GOBP name	regulation of cellular component organization	0.00061227	1.2436	130	83	441	0.0214
+-852	KEGG name	Hypertrophic cardiomyopathy (HCM)	0.0010909	1.8087	14	13	441	0.023892
+-852	KEGG name	Protein digestion and absorption	0.0012096	1.9478	10	10	441	0.024083
+-852	GOCC name	neuron projection	0.0033627	1.3676	47	33	441	0.024371
+-852	GOBP name	immune system process	0.00071823	1.2545	118	76	441	0.024439
+-852	KEGG name	Complement and coagulation cascades	0.0013434	1.7187	17	15	441	0.024516
+-852	GOBP name	regulation of developmental process	0.00074123	1.2635	111	72	441	0.024892
+-852	GOBP name	response to endogenous stimulus	0.00073679	1.3142	83	56	441	0.024905
+-852	GOBP name	regulation of MAPKKK cascade	0.00075419	1.5583	30	24	441	0.025163
+-852	GOBP name	regulation of chemotaxis	0.00076462	1.7314	18	16	441	0.025183
+-852	GOBP name	Golgi vesicle transport	0.00076462	1.7314	18	16	441	0.025346
+-852	GOCC name	basolateral plasma membrane	0.0036323	1.7855	12	11	441	0.026044
+-852	GOBP name	positive regulation of cellular component organization	0.00080508	1.4131	51	37	441	0.02618
+-852	GOBP name	angiogenesis	0.0008135	1.5871	27	22	441	0.026288
+-852	GOBP name	cation transport	0.00082055	1.4865	38	29	441	0.02635
+-852	KEGG name	Dilated cardiomyopathy	0.0010909	1.8087	14	13	441	0.026546
+-852	GOBP name	regulation of cell projection organization	0.00084851	1.6232	24	20	441	0.027079
+-852	GOMF name	ion transmembrane transporter activity	0.00084851	1.6232	24	20	441	0.027388
+-852	GOCC name	lamellipodium	0.0040378	1.6881	15	13	441	0.028056
+-852	KEGG name	Focal adhesion	0.001875	1.4609	36	27	441	0.02933
+-852	GOCC name	endoplasmic reticulum part	0.004596	1.2395	88	56	441	0.031609
+-852	GOCC name	transport vesicle membrane	0.0046777	1.9478	8	8	441	0.031846
+-852	GOBP name	enzyme linked receptor protein signaling pathway	0.0010261	1.3357	70	48	441	0.032344
+-852	GOBP name	metal ion transport	0.0010701	1.5218	32	25	441	0.033524
+-852	GOBP name	developmental process	0.0011046	1.1418	261	153	441	0.03419
+-852	GOBP name	regulation of locomotion	0.0011308	1.3635	60	42	441	0.034791
+-852	GOBP name	cellular response to endogenous stimulus	0.0011393	1.4284	45	33	441	0.034844
+-852	GOBP name	regulation of leukocyte chemotaxis	0.0012096	1.9478	10	10	441	0.036134
+-852	GOBP name	humoral immune response	0.0012096	1.9478	10	10	441	0.036345
+-852	GOBP name	collagen fibril organization	0.0012096	1.9478	10	10	441	0.036559
+-852	GOBP name	response to hormone stimulus	0.0012421	1.3373	67	46	441	0.036676
+-852	GOBP name	antigen processing and presentation	0.0013147	1.5733	26	21	441	0.037948
+-852	GOBP name	negative regulation of response to stimulus	0.0013128	1.3161	74	50	441	0.038108
+-852	GOBP name	positive regulation of cell projection organization	0.0013434	1.7187	17	15	441	0.038346
+-852	GOBP name	cell-substrate adhesion	0.0013434	1.7187	17	15	441	0.03856
+-852	GOBP name	synaptic transmission	0.0014008	1.6091	23	19	441	0.039115
+-852	GOBP name	extracellular matrix disassembly	0.0014258	1.6557	20	17	441	0.039176
+-852	GOBP name	positive regulation of response to external stimulus	0.0014008	1.6091	23	19	441	0.039329
+-852	GOBP name	regulation of behavior	0.0014258	1.6557	20	17	441	0.039386
+-852	GOBP name	antigen processing and presentation of exogenous peptide antigen	0.0014008	1.6091	23	19	441	0.039545
+-852	GOBP name	cell junction assembly	0.0014258	1.6557	20	17	441	0.039599
+-852	GOBP name	antigen processing and presentation of exogenous antigen	0.0014008	1.6091	23	19	441	0.039764
