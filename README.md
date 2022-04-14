@@ -14,4 +14,4 @@ Source data for the web-based dashboard application is not available due to cont
 However, the webpage is freely available at www.liverproteome.org
 
 ## Summary of the study
-![Synopsis](Images/Study_overview.jpg)
+![Synopsis](Images/Liver atlas synopsis.jpg)
