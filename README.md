@@ -4,10 +4,10 @@
 
 ## Contents
 
-file                      | description
+folder                      | description
 ------------------------- | --------------------------------------
-[LiverAtlas_PA](LiverAtlas_PA/Atlas_upload.ipynb)    | Contains data pre-processing, statistical tests and figures.
-[LiverAtlas_DashApp](LiverAtlas_DashApp/liveratlas_v2.py)    | Contains source code for the web-based dashboard application. 
+[LiverAtlas_PA](LiverAtlas_PA)    | Contains raw proteomics datasets for atlas samples, primary cell culture expriemnt and patient samples, and the Jupyter notebook for data analysis.
+[LiverAtlas_DashApp](LiverAtlas_DashApp)    | Contains source code for the web-based dashboard application. 
 
 ## Disclaimer
 Source data for the web-based dashboard application is not available due to continuous development of the webpage and the need to maintain potential patient-sensitive data. 
