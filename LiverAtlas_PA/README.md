@@ -1,6 +1,7 @@
 
 file                      | description
 ------------------------- | --------------------------------------
+[Atlas_upload.ipynb](Atlas_upload.ipynb)    | Contains data pre-processing, statistical tests and figures.
 [Atlas protein copy number](datasets/Atlas/proteinGroups_ratio2_10528_copynumber.txt)    | Contains protein copy number per cell of atlas samples
 [Atlas LFQ](datasets/Atlas/proteinGroups_minratio2.txt)    | Contains protein group label free quantification of atlas samples 
 [Atlas peptide](datasets/Atlas/peptides.txt)    | Contains peptide-level quantification of atlas samples 
