@@ -1,6 +1,6 @@
 # Human liver proteome atlas project
 - Link to bioRxiv preprint: [Dynamic human liver proteome atlas reveals functional insights into disease pathways](https://www.biorxiv.org/content/10.1101/2022.01.28.478194v1.full)
-- This repository contains scripts used for bioinformatics analysis in the project and source code for the web-based dashboard application at www.liverproteome.org
+- This repository contains scripts for bioinformatics analysis in the human liver proteome atlas project and source code for the web-based dashboard application at www.liverproteome.org
 
 ## Contents
 
