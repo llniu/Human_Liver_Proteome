@@ -1,0 +1,93 @@
+Gene name,Protein name,Uniprot ID,Complex
+NDUFS1,"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial",P28331,Complex1
+NDUFS2,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",O75306,Complex1
+NDUFS3,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",O75489,Complex1
+NDUFS4,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial",O43181,Complex1
+NDUFS5,NADH dehydrogenase [ubiquinone] iron-sulfur protein 5,O43920,Complex1
+NDUFS6,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial",P52503,Complex1
+NDUFS7,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial",O75251,Complex1
+NDUFS8,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial",NDUFS8,Complex1
+NDUFV1,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial",NDUFV1,Complex1
+NDUFV2,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial",NDUFV2,Complex1
+NDUFV3,"NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial",P56181,Complex1
+MT-ND1,NADH-ubiquinone oxidoreductase chain 1,P03886,Complex1
+MT-ND2,NADH-ubiquinone oxidoreductase chain 2,P03891,Complex1
+MT-ND3,NADH-ubiquinone oxidoreductase chain 3,P03897,Complex1
+MT-ND4,NADH-ubiquinone oxidoreductase chain 4,P03905,Complex1
+MT-ND5,NADH-ubiquinone oxidoreductase chain 5,P03915,Complex1
+MT-ND6,NADH-ubiquinone oxidoreductase chain 6,P03923,Complex1
+NDUFA1,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1,O15239,Complex1
+NDUFA2,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2,O43678,Complex1
+NDUFA3,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3,O95167,Complex1
+NDUFA5,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5,Q16718,Complex1
+NDUFA6,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6,P56556,Complex1
+NDUFA7,ADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7,O95182,Complex1
+NDUFA8,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8,P51970,Complex1
+NDUFA9,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial",Q16795,Complex1
+NDUFA10,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",O95299,Complex1
+NDUFA11,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11,Q86Y39,Complex1
+NDUFA12,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12,Q9UI09,Complex1
+NDUFA13,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13,Q9P0J0,Complex1
+NDUFAB1,"Acyl carrier protein, mitochondrial",O14561,Complex1
+NDUFB1,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1,O75438,Complex1
+NDUFB2,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial",O95178,Complex1
+NDUFB3,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3,O43676,Complex1
+NDUFB4,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4,O95168,Complex1
+NDUFB5,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial",O43674,Complex1
+NDUFB6,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6,O95139,Complex1
+NDUFB7,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7,P17568,Complex1
+NDUFB8,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial",O95169,Complex1
+NDUFB9,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9,Q9Y6M9,Complex1
+NDUFB10,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10,O96000,Complex1
+NDUFB11,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 11, mitochondrial",Q9NX14,Complex1
+NDUFC1,"NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial",O43677,Complex1
+NDUFC2,NADH dehydrogenase [ubiquinone] 1 subunit C2,O95298,Complex1
+SDHA,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",P31040,Complex2
+SDHB,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",P21912,Complex2
+SDHC,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial",Q99643,Complex2
+SDHD,"Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial",O14521,Complex2
+MT-CYB,Cytochrome b,P00156,Complex3
+CYC1,"Cytochrome c1, heme protein, mitochondrial",P08574,Complex3
+UQCRFS1,"Cytochrome b-c1 complex subunit Rieske, mitochondrial",P47985,Complex3
+UQCRC1,"Cytochrome b-c1 complex subunit 1, mitochondrial",P31930,Complex3
+UQCRC2,"Cytochrome b-c1 complex subunit 2, mitochondrial",P22695,Complex3
+UQCRH,"Cytochrome b-c1 complex subunit 6, mitochondrial",P07919,Complex3
+UQCRB,Cytochrome b-c1 complex subunit 7,P14927,Complex3
+UQCRQ,Cytochrome b-c1 complex subunit 8,O14949,Complex3
+UQCR10,Cytochrome b-c1 complex subunit 9,Q9UDW1,Complex3
+UQCR11,Cytochrome b-c1 complex subunit 10,O14957,Complex3
+MT-CO1,Cytochrome c oxidase subunit 1,P00395,Complex4
+MT-CO2,Cytochrome c oxidase subunit 2,P00403,Complex4
+MT-CO3,Cytochrome c oxidase subunit 3,P00414,Complex4
+COX4I1,"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial",P13073,Complex4
+COX5A,"Cytochrome c oxidase subunit 5A, mitochondrial",P20674,Complex4
+COX5B,"Cytochrome c oxidase subunit 5B, mitochondrial",P1060,Complex4
+COX6A1,"Cytochrome c oxidase subunit 6A1, mitochondrial",P12074,Complex4
+COX6B1,Cytochrome c oxidase subunit 6B1,P14854,Complex4
+COX6C,Cytochrome c oxidase subunit 6C,P09669,Complex4
+COX7A2,"Cytochrome c oxidase subunit 7A2, mitochondrial",P14406,Complex4
+COX7B,"Cytochrome c oxidase subunit 7B, mitochondrial",P24311,Complex4
+COX7C,"Cytochrome c oxidase subunit 7C, mitochondrial",P15954,Complex4
+COX8A,"Cytochrome c oxidase subunit 8A, mitochondrial",P10176,Complex4
+NDUFA4,Cytochrome c oxidase subunit NDUFA4,O00483,Complex4
+ATP5A1,"ATP synthase subunit alpha, mitochondrial",P25705,ATPase
+ATP5B,"ATP synthase subunit beta, mitochondrial",P06576,ATPase
+ATP5C1,"ATP synthase subunit gamma, mitochondrial",P36542,ATPase
+ATP5D,ATP synthase F1 subunit delta,P30049,ATPase
+ATP5E,ATP synthase F1 subunit epsilon,P56381,ATPase
+ATP5O,ATP synthase subunit O,P48047,ATPase
+MT-ATP6,ATP synthase subunit a,P00846,ATPase
+MT-ATP8,ATP synthase subunit 8,P03928,ATPase
+ATP5F1,ATP synthase subunit b,P24539,ATPase
+ATP5G1,ATP synthase subunit c1,P05496,ATPase
+ATP5G2,ATP synthase subunit c2,Q06055,ATPase
+ATP5G3,ATP synthase subunit c3,P48201,ATPase
+ATP5H,ATP synthase subunit d,O75947,ATPase
+ATP5I,ATP synthase subunit e,P56385,ATPase
+ATP5J2,ATP synthase subunit f,P56134,ATPase
+ATP5L,ATP synthase subunit g,O75964,ATPase
+USMG5,ATP synthase membrane subunit DAPIT,Q96IX5,ATPase
+ATP5MPL,ATP synthase membrane subunit ATP5MPL,P56378,ATPase
+ATP5J2,ATP synthase-coupling factor 6,P18859,ATPase
+ATPIF1,ATPase inhibitor,Q9UII2,ATPase
+ATP5S,ATP synthase subunit s,Q99766,ATPase
